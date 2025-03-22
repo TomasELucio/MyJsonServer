@@ -1,0 +1,11 @@
+{
+    "sensor":{
+        "id": 0,
+        "temperature": 0,
+        "humidity": 0,
+        "light": 0,
+        "motion": 0 ,
+        "date": "2020-01-01T00:00:00Z" ,
+        "location": "0,0"
+    }
+}
